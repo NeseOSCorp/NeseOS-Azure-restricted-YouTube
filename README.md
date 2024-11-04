@@ -6,7 +6,11 @@ Because, YouTube doesn't responded about NeseOS's suggestions reason so, we're n
 
 # Will restored?
 
-No. We'll not restore until official YouTube accepts NeseOS's suggestions so we can restore access. Stay tuned everyone!
+No. We'll not restore until official YouTube accepts NeseOS's suggestions so we can restore access. 
+
+# Does YouTube API will no longer worked?
+
+Yes. YouTube API also might no longer worked since restricted YouTube and API servers stuff. Stay tuned everyone!
 
 # Credits
 
